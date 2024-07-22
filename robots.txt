@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://skiskywa.github.io/sitemap
+Sitemap: https://skiskywa.github.io/app/sitemap
+Sitemap: https://skiskywa.github.io/assets/sitemap
+Sitemap: https://skiskywa.github.io/css/sitemap
+Sitemap: https://skiskywa.github.io/includes/sitemap
+Sitemap: https://skiskywa.github.io/item/sitemap
+Sitemap: https://skiskywa.github.io/src/sitemap
